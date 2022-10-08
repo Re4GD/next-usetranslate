@@ -1,0 +1,9 @@
+node_modules
+build
+dist
+logs
+.github
+.swc
+.vscode
+.next
+.eslintrc.json
